@@ -29,7 +29,7 @@ The project contain a dockerfile
 3.- springboot greeting app running on the docker container
 
 <p align="left"> 
-	<img src="https://github.com/upool/springboot-to-docker/blob/master/springboot-running.png" width="700" height="400"/> 
+	<img src="https://github.com/upool/springboot-to-docker/blob/master/springboot-running.png" width="800" height="400"/> 
 </p>
 
 <br>
