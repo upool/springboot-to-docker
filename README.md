@@ -10,27 +10,29 @@ API running on localhost...
 
 
 
+
 The project contain a dockerfile
+
 <p align="left"> 
 	<img src="https://github.com/upool/springboot-to-docker/blob/master/Dockerfile.PNG" width="600"/> 
 </p>
 
 
-1.-  run:
+1.-  build:
 
-$ docker build "rute to springboot-to-docker folder" -t greeting
+	$ docker build "rute to springboot-to-docker folder" -t greeting
 
 2.- run:
 
-$ docker run --name=greeting -p 8080:8080 greeting
+	$ docker run --name=greeting -p 8080:8080 greeting
 
 3.- springboot greeting app running on the docker container
 
 <p align="left"> 
-	<img src="https://github.com/upool/springboot-to-docker/blob/master/springboot-running.png" width="600"/> 
+	<img src="https://github.com/upool/springboot-to-docker/blob/master/springboot-running.png" width="700" height="400"/> 
 </p>
 
-
+<br>
 <p align="left"> 
 	<img src="https://github.com/upool/springboot-to-docker/blob/master/springboot-running-docker.png" width="600"/> 
 </p>
